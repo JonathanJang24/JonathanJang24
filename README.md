@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @JonathanJang24
-- ✨ I like to...
-  -   Fish 🎣
-  -   Work out 🏋️
-  -   idk
-- 📫 How to reach me jonathanjang24@gmail.com
+# 👋 Hi, I’m Jonathan Jang (JJ)
+
+
+## ✨ I like to...
+- Fish 🎣
+- Work out 🏋️
+- idk
+
+
+## 📫 Connect with me 
+  - jonathanjang24@gmail.com
 
 <!---
 JonathanJang24/JonathanJang24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
