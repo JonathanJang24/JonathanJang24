@@ -4,14 +4,11 @@
 - a Church Website
 
 
-## ✨ I like to...
+### ✨ I like to...
 - Fish 🎣
 - Work out 🏋️
 - Sing praise 🎶
 
-
-## 📫 Connect with me 
-  - jonathanjang24@gmail.com
 
 <!---
 JonathanJang24/JonathanJang24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
