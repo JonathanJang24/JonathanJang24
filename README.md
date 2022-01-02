@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jonathan Jang (JJ)
 
-## 💻 I'm currently working on...
+### 💻 I'm currently working on...
 - a Church Website
 
 
