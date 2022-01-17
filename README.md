@@ -5,9 +5,7 @@
 
 
 ### ✨ I like to...
-- Fish 🎣
-- Work out 🏋️
-- Sing praise 🎶
+
 
 
 <!---
