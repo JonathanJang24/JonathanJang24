@@ -2,6 +2,7 @@
 
 ### 💻 I'm currently working on...
 - College applications!
+- Learning React
 
 
 ### ✨ I like to...
@@ -11,7 +12,7 @@
 
 ### 🔧 I have experience in...
 - GUI applications with Python
-- Some competitive programming with Java
+- Competitive programming with Java
 - Basic Web Development with HTML, CSS, and JS
 
 <!---
