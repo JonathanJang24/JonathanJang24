@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jonathan Jang (JJ)
 
-### ❓ I am...
+### 🙋‍♂️ I am...
 - an incoming freshman at Rice University (go owls!) 🦉
 - interested in full stack development 📚
 - a native Houstonian 🏙️
