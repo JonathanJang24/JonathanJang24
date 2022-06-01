@@ -1,19 +1,17 @@
 # 👋 Hi, I’m Jonathan Jang (JJ)
 
-### 💻 I'm currently working on...
-- College applications!
-- Learning React
+### ❓ I am...
+- an incoming freshman at Rice University (go owls!) 🦉
+- interested in full stack development 📚
+- a native Houstonian 🏙️
 
+### 💻 I'm currently working on...
+- A React App
 
 ### ✨ I like to...
-- play Table Tennis 🏓
 - go fishing 🎣
 - lift weights 🏋️
-
-### 🔧 I have experience in...
-- GUI applications with Python
-- Competitive programming with Java
-- Basic Web Development with HTML, CSS, and JS
+- play piano 🎹
 
 <!---
 JonathanJang24/JonathanJang24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
