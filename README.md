@@ -5,8 +5,9 @@
 - interested in full stack development 📚
 - a native Houstonian 🏙️
 
-### 💻 I'm currently working on...
-- A React App
+### 💻 I'm currently...
+- building React App
+- watching the Hobbit
 
 ### ✨ I like to...
 - go fishing 🎣
