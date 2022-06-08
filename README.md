@@ -7,6 +7,7 @@
 
 ### 💻 I'm currently...
 - building React App
+- interning at a software company
 - watching the Hobbit
 
 ### ✨ I like to...
