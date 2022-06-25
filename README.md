@@ -6,9 +6,9 @@
 - a native Houstonian 🏙️
 
 ### 💻 I'm currently...
-- building React App
+- building a React App
 - interning at a software company
-- watching the Hobbit
+- learning JavaFX
 
 ### ✨ I like to...
 - go fishing 🎣
