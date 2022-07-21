@@ -6,9 +6,9 @@
 - a native Houstonian 🏙️
 
 ### 💻 I'm currently...
-- building a React App
+- building a JavaFx program with sqlite3
 - interning at a software company
-- learning JavaFX
+- learning backend with Python (flask)
 
 ### ✨ I like to...
 - go fishing 🎣
