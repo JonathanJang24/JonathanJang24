@@ -1,9 +1,7 @@
-# 👋 Hi, I’m Jonathan Jang (JJ)
+# 👋 Hey, I'm JJ
 
-### 🙋‍♂️ I am...
-- an incoming freshman at Rice University 🦉
-- interested in full stack development 📚
-- a native Houstonian 🏙️
+### 🥇 My main goal is to...
+ *Glorify God in all I do* 🤗
 
 ### 💻 I'm currently...
 - building a JavaFx program with sqlite3
