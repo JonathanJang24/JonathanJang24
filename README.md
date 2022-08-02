@@ -1,6 +1,6 @@
 # 👋 Hey, I'm JJ
 
-**As a Christian, I strive to live chiefly in a manner glorifying to God. I have hopes of using CS to spread the Gospel of Christ Jesus.**
+**As a Christian, I chiefly live to glorify to God. I have hopes of using CS to spread the Gospel of Christ Jesus.**
 <br>
 <br>
 _"He must become greater; I must become less..."_
