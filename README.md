@@ -1,17 +1,26 @@
 # 👋 Hey, I'm JJ
 
-### 🥇 My main goal is to...
- *Glorify God in all I do* 🤗
+**As a Christian, I strive to live chiefly in a manner glorifying to God. I have hopes of using CS to spread the Gospel of Christ Jesus.**
+<br>
+<br>
+_"He must become greater; I must become less..."_
+<br>
+_&emsp;&emsp;-John 3:30_
+<br>
 
-### 💻 I'm currently...
-- building a JavaFx program with sqlite3
+
+#### I'm currently:
+- building a JavaFx program and Mock Social Media Site
 - interning at a software company
-- learning backend with Python (flask)
+- studying CS at Rice University
 
-### ✨ I like to...
+#### I like to:
 - go fishing 🎣
 - lift weights 🏋️
 - play piano 🎹
+
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/jonathanjang24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!---
 JonathanJang24/JonathanJang24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
