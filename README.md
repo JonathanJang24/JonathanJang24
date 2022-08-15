@@ -10,8 +10,7 @@ _&emsp;&emsp;-John 3:30_
 
 
 #### I'm currently:
-- building a JavaFx program and Mock Social Media Site
-- interning at a software company
+- developing a full-stack Mock Social Media Site
 - studying CS at Rice University
 
 #### I like to:
