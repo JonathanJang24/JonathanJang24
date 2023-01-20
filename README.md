@@ -1,6 +1,6 @@
 # 👋 Hey, I'm JJ
 
-**As a Christian, I chiefly live to glorify to God. I have hopes of using CS to spread the Gospel of Christ Jesus.**
+**My ultimate aspiration with code and CS is to use it for the glory of God**
 <br>
 <br>
 _"He must become greater; I must become less..."_
@@ -12,11 +12,6 @@ _&emsp;&emsp;-John 3:30_
 #### I'm currently:
 - developing a full-stack Mock Social Media Site
 - studying CS at Rice University
-
-#### I like to:
-- go fishing 🎣
-- lift weights 🏋️
-- play piano 🎹
 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jonathanjang24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
