@@ -10,8 +10,8 @@ _&emsp;&emsp;-John 3:30_
 
 
 #### I'm currently:
-- developing a full-stack Mock Social Media Site
-- studying CS at Rice University
+- studying Computer Science at Rice University
+- working part-time as a SWE Intern at Auxilio Partners
 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jonathanjang24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
