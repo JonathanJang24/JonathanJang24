@@ -1,17 +1,15 @@
 # 👋 Hey, I'm JJ
 
-**My ultimate aspiration with code and CS is to use it for the glory of God**
-<br>
-<br>
-_"He must become greater; I must become less..."_
+*"He must become greater; I must become less..."*
 <br>
 _&emsp;&emsp;-John 3:30_
 <br>
 
 
 #### I'm currently:
-- studying Computer Science at Rice University
-- working part-time as a SWE Intern at Auxilio Partners
+- studying CS at Rice University
+- working with Auxilio Partners on their Tech team
+- developing software with RiceApps for Texas Hearing Institute
 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jonathanjang24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
