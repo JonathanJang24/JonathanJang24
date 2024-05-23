@@ -7,9 +7,9 @@ _&emsp;&emsp;-John 3:30_
 
 
 #### I'm currently:
-- studying CS at Rice University
+- interning at Capital One as a SWE
 - working with Auxilio Partners on their Tech team
-- developing software with RiceApps for Texas Hearing Institute
+- studying CS at Rice University
 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jonathanjang24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
