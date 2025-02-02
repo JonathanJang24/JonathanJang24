@@ -7,9 +7,9 @@ _&emsp;&emsp;-John 3:30_
 
 
 #### I'm currently:
-- studying computer science at Rice
-- incoming at sig
-- learning greek
+- studying CS at Rice
+- going to work at SIG for the summer
+- learning Attic Greek
   
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jonathanjang24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
